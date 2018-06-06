@@ -1,0 +1,56 @@
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe.config
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\bin\Debug\course_scheduling.pdb
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\bin\Debug\MySql.Data.DLL
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csprojResolveAssemblyReference.cache
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Form1.resources
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Properties.Resources.resources
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csproj.GenerateResource.Cache
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\obj\Debug\course_scheduling.exe
+c:\users\anesthetic\documents\visual studio 2015\Projects\course_scheduling\course_scheduling\obj\Debug\course_scheduling.pdb
+C:\Users\CSELab\Desktop\New folder\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe.config
+C:\Users\CSELab\Desktop\New folder\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe
+C:\Users\CSELab\Desktop\New folder\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.pdb
+C:\Users\CSELab\Desktop\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csprojResolveAssemblyReference.cache
+C:\Users\CSELab\Desktop\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Form1.resources
+C:\Users\CSELab\Desktop\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Properties.Resources.resources
+C:\Users\CSELab\Desktop\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csproj.GenerateResource.Cache
+C:\Users\CSELab\Desktop\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.exe
+C:\Users\CSELab\Desktop\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.pdb
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csprojResolveAssemblyReference.cache
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Form1.resources
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Properties.Resources.resources
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csproj.GenerateResource.Cache
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.exe
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.pdb
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe.config
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.pdb
+C:\Users\Shaher\Desktop\New folder\New folder\course_scheduling\course_scheduling\course_scheduling\bin\Debug\MySql.Data.dll
+C:\Users\CSELab\Desktop\crm\crm\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe.config
+C:\Users\CSELab\Desktop\crm\crm\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe
+C:\Users\CSELab\Desktop\crm\crm\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.pdb
+C:\Users\CSELab\Desktop\crm\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csprojResolveAssemblyReference.cache
+C:\Users\CSELab\Desktop\crm\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Form1.resources
+C:\Users\CSELab\Desktop\crm\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Properties.Resources.resources
+C:\Users\CSELab\Desktop\crm\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csproj.GenerateResource.Cache
+C:\Users\CSELab\Desktop\crm\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.exe
+C:\Users\CSELab\Desktop\crm\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.pdb
+C:\Users\Anesthetic\Desktop\crm2\crm\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe.config
+C:\Users\Anesthetic\Desktop\crm2\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.exe
+C:\Users\Anesthetic\Desktop\crm2\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.pdb
+C:\Users\Anesthetic\Desktop\crm2\crm\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe
+C:\Users\Anesthetic\Desktop\crm2\crm\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.pdb
+C:\Users\Anesthetic\Desktop\crm2\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csprojResolveAssemblyReference.cache
+C:\Users\Anesthetic\Desktop\crm2\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Form1.resources
+C:\Users\Anesthetic\Desktop\crm2\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Properties.Resources.resources
+C:\Users\Anesthetic\Desktop\crm2\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csproj.GenerateResource.Cache
+E:\crm3\crm3\crm\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe.config
+E:\crm3\crm3\crm\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.exe
+E:\crm3\crm3\crm\course_scheduling\course_scheduling\course_scheduling\bin\Debug\course_scheduling.pdb
+E:\crm3\crm3\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csprojResolveAssemblyReference.cache
+E:\crm3\crm3\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Form1.resources
+E:\crm3\crm3\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.Properties.Resources.resources
+E:\crm3\crm3\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.csproj.GenerateResource.Cache
+E:\crm3\crm3\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.exe
+E:\crm3\crm3\crm\course_scheduling\course_scheduling\course_scheduling\obj\Debug\course_scheduling.pdb

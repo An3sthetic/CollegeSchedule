@@ -1,8 +1,0 @@
-c:\users\hm\documents\visual studio 2017\Projects\course_scheduling\course_scheduling\bin\Release\netcoreapp1.1\course_scheduling.deps.json
-c:\users\hm\documents\visual studio 2017\Projects\course_scheduling\course_scheduling\bin\Release\netcoreapp1.1\course_scheduling.runtimeconfig.json
-c:\users\hm\documents\visual studio 2017\Projects\course_scheduling\course_scheduling\bin\Release\netcoreapp1.1\course_scheduling.runtimeconfig.dev.json
-c:\users\hm\documents\visual studio 2017\Projects\course_scheduling\course_scheduling\bin\Release\netcoreapp1.1\course_scheduling.dll
-c:\users\hm\documents\visual studio 2017\Projects\course_scheduling\course_scheduling\bin\Release\netcoreapp1.1\course_scheduling.pdb
-c:\users\hm\documents\visual studio 2017\Projects\course_scheduling\course_scheduling\obj\Release\netcoreapp1.1\course_scheduling.AssemblyInfo.cs
-c:\users\hm\documents\visual studio 2017\Projects\course_scheduling\course_scheduling\obj\Release\netcoreapp1.1\course_scheduling.dll
-c:\users\hm\documents\visual studio 2017\Projects\course_scheduling\course_scheduling\obj\Release\netcoreapp1.1\course_scheduling.pdb
